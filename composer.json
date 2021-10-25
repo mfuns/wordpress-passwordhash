@@ -1,0 +1,9 @@
+{
+    "name": "mfuns-cn/wordpress-passwordhash",
+    "require": {},
+    "autoload": {
+        "files": [
+            "src/class-phpass.php"
+        ]
+    }
+}
