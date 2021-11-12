@@ -1,5 +1,5 @@
 {
-    "name": "mfuns-cn/wordpress-passwordhash",
+    "name": "mfuns/wordpress-passwordhash",
     "require": {},
     "autoload": {
         "files": [
